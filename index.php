@@ -1,1 +1,3 @@
-Test page
+<?php
+echo "Hello, World!";
+?>
